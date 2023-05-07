@@ -64,8 +64,6 @@ word5 = list(user_text[4])
 
 print(user_text)
 
-
-
 print('-'.join(word1), '-'.join(word2), '-'.join(word3), '-'.join(word4), '-'.join(word5))
 
 
